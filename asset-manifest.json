@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jamboo/static/css/main.36f8e7e8.chunk.css",
+    "main.js": "/jamboo/static/js/main.a1521791.chunk.js",
+    "main.js.map": "/jamboo/static/js/main.a1521791.chunk.js.map",
+    "runtime-main.js": "/jamboo/static/js/runtime-main.1c28f5e6.js",
+    "runtime-main.js.map": "/jamboo/static/js/runtime-main.1c28f5e6.js.map",
+    "static/css/2.aefed784.chunk.css": "/jamboo/static/css/2.aefed784.chunk.css",
+    "static/js/2.328c8ca0.chunk.js": "/jamboo/static/js/2.328c8ca0.chunk.js",
+    "static/js/2.328c8ca0.chunk.js.map": "/jamboo/static/js/2.328c8ca0.chunk.js.map",
+    "static/js/3.b843944d.chunk.js": "/jamboo/static/js/3.b843944d.chunk.js",
+    "static/js/3.b843944d.chunk.js.map": "/jamboo/static/js/3.b843944d.chunk.js.map",
+    "index.html": "/jamboo/index.html",
+    "static/css/2.aefed784.chunk.css.map": "/jamboo/static/css/2.aefed784.chunk.css.map",
+    "static/css/main.36f8e7e8.chunk.css.map": "/jamboo/static/css/main.36f8e7e8.chunk.css.map",
+    "static/js/2.328c8ca0.chunk.js.LICENSE.txt": "/jamboo/static/js/2.328c8ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c28f5e6.js",
+    "static/css/2.aefed784.chunk.css",
+    "static/js/2.328c8ca0.chunk.js",
+    "static/css/main.36f8e7e8.chunk.css",
+    "static/js/main.a1521791.chunk.js"
+  ]
+}
